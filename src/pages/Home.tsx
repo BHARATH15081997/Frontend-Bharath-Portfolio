@@ -61,7 +61,7 @@ const Home = () => {
           <div className="md:w-1/2 flex justify-center">
             <div className="relative w-full max-w-md animate-float">
               <img 
-                src="/lovable-uploads/fecaab39-cfcf-4c96-8a69-2617c5017c51.png" 
+                src="/lovable-uploads/7f456642-c246-41e5-a7d4-294726feeddd.png" 
                 alt="Developer illustration" 
                 className="w-full h-auto"
               />
