@@ -63,11 +63,11 @@ const About = () => {
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <div>
                   <h3 className="text-lg font-medium text-portfolio-400">Location</h3>
-                  <p className="text-muted-foreground">Namakkal, Tamil Nadu</p>
+                  <p className="text-muted-foreground">Chennai, Tamil Nadu</p>
                 </div>
                 <div>
                   <h3 className="text-lg font-medium text-portfolio-400">Email</h3>
-                  <p className="text-muted-foreground">contact@bharath.dev</p>
+                  <p className="text-muted-foreground">bharathfrontend1997@gmail.com</p>
                 </div>
                 <div>
                   <h3 className="text-lg font-medium text-portfolio-400">Specialty</h3>
