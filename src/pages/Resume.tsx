@@ -1,4 +1,3 @@
-
 import { Download, Calendar, MapPin, Building } from 'lucide-react';
 import PageHeader from '@/components/PageHeader';
 import Button from '@/components/Button';
@@ -41,17 +40,17 @@ const Resume = () => {
                   
                   <div>
                     <h3 className="text-lg font-medium text-portfolio-400">Location</h3>
-                    <p className="text-muted-foreground">Namakkal, Tamil Nadu</p>
+                    <p className="text-muted-foreground">Chennai, Tamil Nadu</p>
                   </div>
                   
                   <div>
                     <h3 className="text-lg font-medium text-portfolio-400">Email</h3>
-                    <p className="text-muted-foreground">contact@bharath.dev</p>
+                    <p className="text-muted-foreground">bharathfrontend1997@gmail.com</p>
                   </div>
                   
                   <div>
                     <h3 className="text-lg font-medium text-portfolio-400">Phone</h3>
-                    <p className="text-muted-foreground">+91 98765 43210</p>
+                    <p className="text-muted-foreground">+91 7418074178</p>
                   </div>
                 </div>
                 
@@ -97,7 +96,7 @@ const Resume = () => {
                         <span>Glib Ware Soft Solutions</span>
                         <span className="mx-2">•</span>
                         <MapPin className="w-4 h-4 mr-1" />
-                        <span>Namakkal, Tamil Nadu</span>
+                        <span>Chennai, Tamil Nadu</span>
                       </div>
                       
                       <ul className="space-y-2 text-muted-foreground">
@@ -136,7 +135,7 @@ const Resume = () => {
                         <span>Glib Ware Soft Solutions</span>
                         <span className="mx-2">•</span>
                         <MapPin className="w-4 h-4 mr-1" />
-                        <span>Namakkal, Tamil Nadu</span>
+                        <span>Chennai, Tamil Nadu</span>
                       </div>
                       
                       <ul className="space-y-2 text-muted-foreground">
